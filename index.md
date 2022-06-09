@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+## 说明
 
-You can use the [editor on GitHub](https://github.com/LockLinkTeam/LockLinkTeam.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+由于受到持续大流量的 DDoS 攻击，导致部分服务无法正常运行。我们全体同仁正在进行紧急修复中，让服务恢复需要一点时间。给各位用户带啦不变，深感抱歉。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+最新的消息可以关注下列账号。
 
-### Markdown
+* [微博](https://weibo.com).
+* [微信服务号](https://weixin.qq.com)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+或者扫描下面二维码加服务群.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LockLinkTeam/LockLinkTeam.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![二维码](/assets/group.png)
